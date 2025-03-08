@@ -6,7 +6,7 @@ Welcome to my Python programming journey! This repository serves as a collection
 ## Learning Resource  
 I am following **Bro Code's Python Programming Video Series**.  
 
-**Video Link:** [Bro Code - Python Programming Full Course](https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&feature=shared)  
+**Playlist Link:** [Bro Code - Python Programming Full Course](https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&feature=shared)  
 
 ## Why Python?  
 Python is known for its simplicity, readability, and vast ecosystem of libraries that make it the go-to language for fields like machine learning, artificial intelligence, and scientific computing. From web development to space exploration, Python is everywhere!  
