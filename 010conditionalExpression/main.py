@@ -3,7 +3,6 @@
 #                       X if condition else Y
 
 num = 5
-
 a = 6
 b = 7
 age = 13
